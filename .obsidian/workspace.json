@@ -198,6 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,12 +208,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c885fa33c38e212",
+  "active": "5d5177b27c8f8672",
   "lastOpenFiles": [
+    "Exercise 1E/Exercise 1E - Colorblindness Test.md",
     "Exercise 1E/Rationale/Photoreceptors/Photoreceptors.md",
     "Exercise 1E/Procedure/I. Procedure.md",
     "I. Procedure.md",
-    "Exercise 1E/Exercise 1E - Colorblindness Test.md",
     "Exercise 1E/Rationale/Photoreceptors/Photo Transduction/Photo transduction.md",
     "Exercise 1E/Rationale/Photoreceptors/Photoreceptor Anatomy/Photoreceptor Anatomy.md",
     "Exercise 1E/Rationale/III. Rationale.md",

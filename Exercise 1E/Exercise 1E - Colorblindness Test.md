@@ -15,6 +15,4 @@ node_size: "10"
 
 12345
 
-jensen
-
-
+jensen huang
