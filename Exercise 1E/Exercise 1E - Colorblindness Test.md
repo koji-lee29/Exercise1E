@@ -12,5 +12,4 @@ node_size: "10"
 [[III. Rationale]]
 
 
-new update
 
