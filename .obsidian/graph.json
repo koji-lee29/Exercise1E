@@ -1,0 +1,107 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#photoreceptors",
+      "color": {
+        "a": 1,
+        "rgb": 16714369
+      }
+    },
+    {
+      "query": "tag:#transduction",
+      "color": {
+        "a": 1,
+        "rgb": 16124169
+      }
+    },
+    {
+      "query": "tag:#anatomy",
+      "color": {
+        "a": 1,
+        "rgb": 16734464
+      }
+    },
+    {
+      "query": "tag:#etiology",
+      "color": {
+        "a": 1,
+        "rgb": 7594265
+      }
+    },
+    {
+      "query": "tag:#types",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#signs",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#pathophysiology",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#procedure",
+      "color": {
+        "a": 1,
+        "rgb": 8673306
+      }
+    },
+    {
+      "query": "tag:#results",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "tag:#rationale",
+      "color": {
+        "a": 1,
+        "rgb": 6817800
+      }
+    },
+    {
+      "query": "tag:#CB",
+      "color": {
+        "a": 1,
+        "rgb": 1543301
+      }
+    },
+    {
+      "query": "tag:#main",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.222747587278969,
+  "repelStrength": 10.3345523499932,
+  "linkStrength": 1,
+  "linkDistance": 273,
+  "scale": 0.3297556447523608,
+  "close": true
+}
