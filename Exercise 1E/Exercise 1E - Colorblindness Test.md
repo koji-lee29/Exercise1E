@@ -18,4 +18,4 @@ node_size: "10"
 jensen huang
 
 
-linus torvalds hates NVDIA!!!
+linus torvalds HAtes NVDIA!!!
